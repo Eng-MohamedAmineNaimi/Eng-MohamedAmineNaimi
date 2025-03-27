@@ -4,14 +4,17 @@
        style="display: inline-block; text-align: center; text-decoration: none;">
       <div style="background-color: #0A66C2; padding: 8px; border-radius: 50%; text-align: center;">
         <img src="https://raw.githubusercontent.com/Eng-MohamedAmineNaimi/portfolio/main/src/assets/tech/aminos2.jpg"
-             style="width: 180px; height: 180px; display: block; border-radius: 50%; object-fit: cover;"
+             style="width: 180px; height: 150px; display: block; border-radius: 50%; object-fit: cover;"
              alt="portfolio logo"/>
       </div>
       <span style="color: #0A66C2; font-size: 14px; display: block;">Portfolio</span>
     </a>
   </div>
 </div>
-
+---
+<h1 align="center">
+  <span style="font-size: 28px; color: #0A66C2; font-weight: bold;">Hey 👋 What's up?</span>
+</h1>
 
 ---
 <p align="left">Hi there! I'm a Software Engineer and Full-Stack Developer passionate about building scalable and efficient applications.</p>
