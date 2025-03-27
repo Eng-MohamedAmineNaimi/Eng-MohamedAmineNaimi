@@ -17,7 +17,7 @@
   <span style="font-size: 28px; color: #0A66C2; font-weight: bold;">Hey 👋 What's up?</span>
 </h1>
 
----
+
 <p align="left">Hi there! I'm a Software Engineer and Full-Stack Developer passionate about building scalable and efficient applications.</p>
 
 ---
