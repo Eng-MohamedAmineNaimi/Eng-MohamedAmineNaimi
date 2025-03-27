@@ -11,12 +11,12 @@
   </a>
   <!-- Portfolio Icon -->
   <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank" style="text-align: center;">
-    <div style="background-color: #2F2F2F; padding: 10px; border-radius: 50%; display: inline-block;">
+    <div style="background-color: #0A66C2; padding: 10px; border-radius: 50%; display: inline-block;">
       <img src="https://raw.githubusercontent.com/Eng-MohamedAmineNaimi/portfolio/main/src/assets/tech/aminos2.jpg" 
            style="width: 80px; height: 80px; object-fit: cover;" 
            alt="portfolio logo" />
     </div>
-    <p style="color: #2F2F2F; margin-top: 5px;">Portfolio</p>
+    <p style="color: #0A66C2; margin-top: 5px;">Portfolio</p>
   </a>
 </p>
 
