@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a Full-Stack Developer with deep expertise in modern IT technologies. I specialize in designing and developing complete applications, from frontend to backend, leveraging a wide range of tools and frameworks, including:<br><br>Backend: Java, JEE, Spring Boot, Node.js, Express.js<br><br>Frontend: Angular, React, Vite.js<br><br>DevOps & Cloud: Docker, AWS (S3, RDS, EC2, IAM)<br><br>API Management: Swagger, Postman, Insomnia<br><br>Version Control & Collaboration: Git, GitHub<br><br>I thrive on problem-solving and innovation, ensuring that every project I work on is functional, scalable, and tailored to meet client needs. My goal is to collaborate with innovative companies and contribute to impactful projects.<br><br>Let’s connect and build something amazing together! 🚀</p>
+<p align="left">I'm a Full-Stack Developer with deep expertise in modern IT technologies. I specialize in designing and developing complete applications, from frontend to backend, leveraging a wide range of tools and frameworks, including:<br><br>Backend: Java, JEE, Spring Boot, Node.js, Express.js<br><br>Frontend: Angular, React<br><br>DevOps & Cloud: Docker, AWS (S3, RDS, EC2, IAM)<br><br>API Management: Swagger, Postman, Insomnia<br><br>Version Control & Collaboration: Git, GitHub<br><br>I thrive on problem-solving and innovation, ensuring that every project I work on is functional, scalable, and tailored to meet client needs. My goal is to collaborate with innovative companies and contribute to impactful projects.<br><br>Let’s connect and build something amazing together! 🚀</p>
 
 ###
 
