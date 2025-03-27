@@ -2,17 +2,16 @@
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
   <!-- LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/mohamed-amine-naimi-907656263/" target="_blank" style="text-align: center;">
-    <div style="background-color: #0A66C2; padding: 20px; border-radius: 50%; display: inline-block;">
+    <div style="background-color: #0A66C2; padding: 10px; border-radius: 50%; display: inline-block;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
            style="width: 80px; height: 80px; object-fit: cover;" 
            alt="linkedin logo" />
     </div>
     <p style="color: #0A66C2; margin-top: 5px;">LinkedIn</p>
   </a>
-  
   <!-- Portfolio Icon -->
   <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank" style="text-align: center;">
-    <div style="background-color: #0A66C2; padding: 20px; border-radius: 50%; display: inline-block;">
+    <div style="background-color: #0A66C2; padding: 10px; border-radius: 50%; display: inline-block;">
       <img src="https://raw.githubusercontent.com/Eng-MohamedAmineNaimi/portfolio/main/src/assets/tech/aminos2.jpg" 
            style="width: 80px; height: 80px; object-fit: cover;" 
            alt="portfolio logo" />
@@ -21,20 +20,25 @@
   </a>
 </p>
 
-<!-- Heading with SVG text -->
 <h1 align="center">
   <svg width="300" height="40" xmlns="http://www.w3.org/2000/svg">
     <text x="0" y="30" font-family="Arial" font-size="32" fill="#0A66C2" font-weight="bold">Hey 👋 What's up?</text>
   </svg>
 </h1>
 
+---
+
 <p align="left">Hi there! I'm a Software Engineer and Full-Stack Developer passionate about building scalable and efficient applications.</p>
+
+---
 
 <h2 align="left">
   <svg width="150" height="30" xmlns="http://www.w3.org/2000/svg">
     <text x="0" y="25" font-family="Arial" font-size="24" fill="#0A66C2" font-weight="bold">About me</text>
   </svg>
 </h2>
+
+---
 
 <p align="left">I'm a Full-Stack Developer with deep expertise in modern IT technologies. I specialize in designing and developing complete applications, from frontend to backend, leveraging a wide range of tools and frameworks, including:</p>
 
@@ -71,11 +75,15 @@
 
 <p align="left">I thrive on problem-solving and innovation, ensuring that every project I work on is functional, scalable, and tailored to meet client needs. My goal is to collaborate with innovative companies and contribute to impactful projects.<br><br>Let's connect and build something amazing together! 🚀</p>
 
+---
+
 <h2 align="left">
   <svg width="180" height="30" xmlns="http://www.w3.org/2000/svg">
     <text x="0" y="25" font-family="Arial" font-size="24" fill="#0A66C2" font-weight="bold">I code with</text>
   </svg>
 </h2>
+
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -90,6 +98,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
 </div>
+
+---
 
 <div>
   <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black" height="40" alt="Swagger badge" />
