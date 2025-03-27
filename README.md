@@ -11,7 +11,7 @@
       </div>
       <span style="color: #0A66C2; font-size: 14px; display: block;">LinkedIn</span>
     </a>
-     <div style="display: inline-flex; gap: 20px; align-items: center;">
+    
     <!-- Portfolio Icon -->
     <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank" 
        style="display: inline-block; text-align: center; text-decoration: none;">
@@ -24,6 +24,7 @@
     </a>
   </div>
 </div>
+
 
 <h1 align="center">
   <span style="font-size: 28px; color: #0A66C2; font-weight: bold;">Hey 👋 What's up?</span>
