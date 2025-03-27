@@ -1,19 +1,10 @@
 <div align="center" style="width: 100%;">
-  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <a href="https://www.linkedin.com/in/mohamed-amine-naimi-907656263/" target="_blank"
-       style="display: inline-block; text-align: center; text-decoration: none;">
-      <div style="background-color: #0A66C2; padding: 8px; border-radius: 50%;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-             style="width: 40px; height: 40px; display: block;"
-             alt="linkedin logo"/>
-      </div>
-      <span style="color: #0A66C2; font-size: 14px; display: block;">LinkedIn</span>
-    </a>
+ 
     <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank"
        style="display: inline-block; text-align: center; text-decoration: none;">
       <div style="background-color: #0A66C2; padding: 8px; border-radius: 50%; text-align: center;">
         <img src="https://raw.githubusercontent.com/Eng-MohamedAmineNaimi/portfolio/main/src/assets/tech/aminos2.jpg"
-             style="width: 40px; height: 40px; display: block; border-radius: 50%; object-fit: cover;"
+             style="width: 80px; height: 80px; display: block; border-radius: 50%; object-fit: cover;"
              alt="portfolio logo"/>
       </div>
       <span style="color: #0A66C2; font-size: 14px; display: block;">Portfolio</span>
