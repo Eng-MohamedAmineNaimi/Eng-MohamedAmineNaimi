@@ -1,14 +1,22 @@
 <!-- LinkedIn and Portfolio Links -->
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-  <a href="https://www.linkedin.com/in/mohamed-amine-naimi-907656263/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #0A66C2; padding: 5px; background: white;" 
-         alt="linkedin logo" />
+  <!-- LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/mohamed-amine-naimi-907656263/" target="_blank" style="text-align: center;">
+    <div style="background-color: #0A66C2; padding: 10px; border-radius: 50%; display: inline-block;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+           style="width: 80px; height: 80px; object-fit: cover;" 
+           alt="linkedin logo" />
+    </div>
+    <p style="color: #0A66C2; margin-top: 5px;">LinkedIn</p>
   </a>
-  <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Eng-MohamedAmineNaimi/portfolio/main/src/assets/tech/aminos2.jpg" 
-         style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #2F2F2F;" 
-         alt="portfolio logo" />
+  <!-- Portfolio Icon -->
+  <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank" style="text-align: center;">
+    <div style="background-color: #2F2F2F; padding: 10px; border-radius: 50%; display: inline-block;">
+      <img src="https://raw.githubusercontent.com/Eng-MohamedAmineNaimi/portfolio/main/src/assets/tech/aminos2.jpg" 
+           style="width: 80px; height: 80px; object-fit: cover;" 
+           alt="portfolio logo" />
+    </div>
+    <p style="color: #2F2F2F; margin-top: 5px;">Portfolio</p>
   </a>
 </p>
 
