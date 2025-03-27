@@ -1,29 +1,27 @@
 <!-- LinkedIn and Portfolio Links -->
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <!-- LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/mohamed-amine-naimi-907656263/" target="_blank" style="text-align: center;">
-    <div style="background-color: #0A66C2; padding: 10px; border-radius: 50%; display: inline-block;">
+    <div style="background-color: #0A66C2; padding: 8px; border-radius: 50%; display: inline-block;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-           style="width: 80px; height: 80px; object-fit: cover;" 
+           style="width: 40px; height: 40px; object-fit: cover;" 
            alt="linkedin logo" />
     </div>
-    <p style="color: #0A66C2; margin-top: 5px;">LinkedIn</p>
+    <p style="color: #0A66C2; margin-top: 5px; font-size: 14px;">LinkedIn</p>
   </a>
   <!-- Portfolio Icon -->
   <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank" style="text-align: center;">
-    <div style="background-color: #0A66C2; padding: 10px; border-radius: 50%; display: inline-block;">
+    <div style="background-color: #0A66C2; padding: 8px; border-radius: 50%; display: inline-block;">
       <img src="https://raw.githubusercontent.com/Eng-MohamedAmineNaimi/portfolio/main/src/assets/tech/aminos2.jpg" 
-           style="width: 80px; height: 80px; object-fit: cover;" 
+           style="width: 40px; height: 40px; object-fit: cover; border-radius: 50%;" 
            alt="portfolio logo" />
     </div>
-    <p style="color: #0A66C2; margin-top: 5px;">Portfolio</p>
+    <p style="color: #0A66C2; margin-top: 5px; font-size: 14px;">Portfolio</p>
   </a>
 </p>
 
 <h1 align="center">
-  <svg width="300" height="40" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="30" font-family="Arial" font-size="32" fill="#0A66C2" font-weight="bold">Hey 👋 What's up?</text>
-  </svg>
+  <span style="font-size: 28px; color: #0A66C2; font-weight: bold;">Hey 👋 What's up?</span>
 </h1>
 
 ---
@@ -32,11 +30,7 @@
 
 ---
 
-<h2 align="left">
-  <svg width="150" height="30" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="25" font-family="Arial" font-size="24" fill="#0A66C2" font-weight="bold">About me</text>
-  </svg>
-</h2>
+<h2 align="left" style="color: #0A66C2; font-weight: bold;">About me</h2>
 
 ---
 
@@ -77,11 +71,7 @@
 
 ---
 
-<h2 align="left">
-  <svg width="180" height="30" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="25" font-family="Arial" font-size="24" fill="#0A66C2" font-weight="bold">I code with</text>
-  </svg>
-</h2>
+<h2 align="left" style="color: #0A66C2; font-weight: bold;">I code with</h2>
 
 ---
 
