@@ -1,10 +1,10 @@
 <!-- LinkedIn and Portfolio Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-naimi-907656263/" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="95" alt="linkedin logo" style="border-radius: 50%; border: 2px solid #0A66C2;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="195" alt="linkedin logo" style="border-radius: 50%; border: 2px solid #0A66C2;" />
   </a>
   <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/Eng-MohamedAmineNaimi/portfolio/main/src/assets/tech/aminos2.jpg" height="95" alt="portfolio logo" style="border-radius: 50%; border: 2px solid #2F2F2F; object-fit: cover;" />
+    <img src="https://raw.githubusercontent.com/Eng-MohamedAmineNaimi/portfolio/main/src/assets/tech/aminos2.jpg" height="195" alt="portfolio logo" style="border-radius: 50%; border: 2px solid #2F2F2F; object-fit: cover;" />
   </a>
 </p>
 
