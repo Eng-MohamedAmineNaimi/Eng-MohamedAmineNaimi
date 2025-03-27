@@ -1,4 +1,4 @@
-<!-- LinkedIn and Portfolio Links - Version optimisée -->
+<!-- LinkedIn and Portfolio Links - Version optimisée et corrigée -->
 <div align="center" style="width: 100%;">
   <div style="display: inline-flex; gap: 20px; align-items: center;">
     <!-- LinkedIn Icon -->
@@ -12,12 +12,12 @@
       <span style="color: #0A66C2; font-size: 14px; display: block;">LinkedIn</span>
     </a>
     
-    <!-- Portfolio Icon -->
+    <!-- Portfolio Icon - Version corrigée -->
     <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank" 
        style="display: inline-block; text-align: center; text-decoration: none;">
       <div style="background-color: #0A66C2; padding: 8px; border-radius: 50%;">
         <img src="https://raw.githubusercontent.com/Eng-MohamedAmineNaimi/portfolio/main/src/assets/tech/aminos2.jpg" 
-             style="width: 40px; height: 40px; display: block; border-radius: 50%;" 
+             style="width: 40px; height: 40px; display: block; object-fit: cover; border-radius: 50%;" 
              alt="portfolio logo"/>
       </div>
       <span style="color: #0A66C2; font-size: 14px; display: block;">Portfolio</span>
