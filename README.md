@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center" style="color: #0A66C2;">Hey 👋 What's up?</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left" style="color: #0A66C2;">About me</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left" style="color: #0A66C2;">I code with</h2>
 
 ###
 
