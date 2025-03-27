@@ -18,11 +18,11 @@
   </svg>
 </h1>
 
----
+###
 
 <p align="left">Hi there! I'm a Software Engineer and Full-Stack Developer passionate about building scalable and efficient applications.</p>
 
----
+###
 
 <h2 align="left">
   <svg width="150" height="30" xmlns="http://www.w3.org/2000/svg">
@@ -30,44 +30,32 @@
   </svg>
 </h2>
 
----
+###
 
-<p align="left">I'm a Full-Stack Developer with deep expertise in modern IT technologies. I specialize in designing and developing complete applications, from frontend to backend, leveraging a wide range of tools and frameworks, including:</p>
+<p align="left">I'm a Full-Stack Developer with deep expertise in modern IT technologies. I specialize in designing and developing complete applications, from frontend to backend, leveraging a wide range of tools and frameworks:</p>
 
-<p align="left" style="font-weight: bold;">Backend: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20" alt="spring logo" /> 
-  Java, JEE, Spring Boot, Node.js, Express.js
-</p>
-
-<p align="left" style="font-weight: bold;">Frontend: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="20" alt="angularjs logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo" /> 
-  Angular, React
-</p>
-
-<p align="left" style="font-weight: bold;">DevOps & Cloud: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="20" alt="aws logo" /> 
-  Docker, AWS (S3, RDS, EC2, IAM)
-</p>
-
-<p align="left" style="font-weight: bold;">API Management: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="20" alt="swagger logo" /> 
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white" height="20" alt="postman badge" /> 
-  <img src="https://img.shields.io/badge/Insomnia-%234000BF.svg?style=flat&logo=insomnia&logoColor=white" height="20" alt="insomnia badge" /> 
-  Swagger, Postman, Insomnia
-</p>
-
-<p align="left" style="font-weight: bold;">Version Control & Collaboration: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="github logo" /> 
-  Git, GitHub
-</p>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <ul>
+        <li><b>Backend:</b> Java, JEE, Spring Boot, Node.js, Express.js</li>
+        <li><b>Frontend:</b> Angular, React</li>
+        <li><b>DevOps & Cloud:</b> Docker, AWS (S3, RDS, EC2, IAM)</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <ul>
+        <li><b>API Management:</b> Swagger, Postman, Insomnia</li>
+        <li><b>Version Control:</b> Git, GitHub</li>
+        <li><b>Databases:</b> PostgreSQL, MongoDB, Oracle</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <p align="left">I thrive on problem-solving and innovation, ensuring that every project I work on is functional, scalable, and tailored to meet client needs. My goal is to collaborate with innovative companies and contribute to impactful projects.<br><br>Let's connect and build something amazing together! 🚀</p>
 
----
+###
 
 <h2 align="left">
   <svg width="180" height="30" xmlns="http://www.w3.org/2000/svg">
@@ -75,26 +63,37 @@
   </svg>
 </h2>
 
----
+###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo" title="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angular logo" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="aws logo" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="oracle logo" title="Oracle" />
 </div>
 
----
+###
 
-<div>
-  <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black" height="40" alt="Swagger badge" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white" height="40" alt="Postman badge" />
-  <img src="https://img.shields.io/badge/Insomnia-%234000BF.svg?style=flat&logo=insomnia&logoColor=white" height="40" alt="Insomnia badge" />
+<h2 align="left">
+  <svg width="250" height="30" xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="25" font-family="Arial" font-size="24" fill="#0A66C2" font-weight="bold">Development Tools</text>
+  </svg>
+</h2>
+
+###
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" height="40" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" alt="Postman" />
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" height="40" alt="Insomnia" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="40" alt="Git" />
 </div>
