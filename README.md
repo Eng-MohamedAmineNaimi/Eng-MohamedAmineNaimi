@@ -3,8 +3,8 @@
   <a href="https://www.linkedin.com/in/mohamed-amine-naimi-907656263/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/907656263" height="40" alt="portfolio logo" />
+ <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/907656263?v=4" height="40" alt="portfolio logo" />
   </a>
 </p>
 
