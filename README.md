@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%;">
-  <div style="display: inline-flex; gap: 20px; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
     <a href="https://www.linkedin.com/in/mohamed-amine-naimi-907656263/" target="_blank"
        style="display: inline-block; text-align: center; text-decoration: none;">
       <div style="background-color: #0A66C2; padding: 8px; border-radius: 50%;">
