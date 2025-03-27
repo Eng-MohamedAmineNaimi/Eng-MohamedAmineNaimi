@@ -1,26 +1,28 @@
-<!-- LinkedIn and Portfolio Links -->
-<div align="center">
-  <p style="display: inline-flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto;">
+<!-- LinkedIn and Portfolio Links - Version optimisée -->
+<div align="center" style="width: 100%;">
+  <div style="display: inline-flex; gap: 20px; align-items: center;">
     <!-- LinkedIn Icon -->
-    <a href="https://www.linkedin.com/in/mohamed-amine-naimi-907656263/" target="_blank" style="text-align: center; text-decoration: none;">
-      <div style="background-color: #0A66C2; padding: 8px; border-radius: 50%; display: inline-block;">
+    <a href="https://www.linkedin.com/in/mohamed-amine-naimi-907656263/" target="_blank" 
+       style="display: inline-block; text-align: center; text-decoration: none;">
+      <div style="background-color: #0A66C2; padding: 8px; border-radius: 50%;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-             style="width: 40px; height: 40px; object-fit: cover;" 
-             alt="linkedin logo" />
+             style="width: 40px; height: 40px; display: block;" 
+             alt="linkedin logo"/>
       </div>
-      <p style="color: #0A66C2; margin-top: 5px; font-size: 14px; margin-bottom: 0;">LinkedIn</p>
+      <span style="color: #0A66C2; font-size: 14px; display: block;">LinkedIn</span>
     </a>
     
     <!-- Portfolio Icon -->
-    <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank" style="text-align: center; text-decoration: none;">
-      <div style="background-color: #0A66C2; padding: 8px; border-radius: 50%; display: inline-block;">
+    <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank" 
+       style="display: inline-block; text-align: center; text-decoration: none;">
+      <div style="background-color: #0A66C2; padding: 8px; border-radius: 50%;">
         <img src="https://raw.githubusercontent.com/Eng-MohamedAmineNaimi/portfolio/main/src/assets/tech/aminos2.jpg" 
-             style="width: 40px; height: 40px; object-fit: cover; border-radius: 50%;" 
-             alt="portfolio logo" />
+             style="width: 40px; height: 40px; display: block; border-radius: 50%;" 
+             alt="portfolio logo"/>
       </div>
-      <p style="color: #0A66C2; margin-top: 5px; font-size: 14px; margin-bottom: 0;">Portfolio</p>
+      <span style="color: #0A66C2; font-size: 14px; display: block;">Portfolio</span>
     </a>
-  </p>
+  </div>
 </div>
 
 <h1 align="center">
