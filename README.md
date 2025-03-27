@@ -21,7 +21,7 @@
 <p align="left">Hi there! I'm a Software Engineer and Full-Stack Developer passionate about building scalable and efficient applications.</p>
 
 ---
-<h2 align="left" style="color: #0A66C2; font-weight: bold;">About me</h2>
+<h1 align="left" style="color: #0A66C2; font-weight: bold;">About me</h2>
 
 ---
 <p align="left">I'm a Full-Stack Developer with deep expertise in modern IT technologies. I specialize in designing and developing complete applications, from frontend to backend, leveraging a wide range of tools and frameworks, including:</p>
@@ -61,7 +61,7 @@
 
 ---
 
-<h2 align="left" style="color: #0A66C2; font-weight: bold;">I code with</h2>
+<h1 align="left" style="color: #0A66C2; font-weight: bold;">I code with</h2>
 
 ---
 
