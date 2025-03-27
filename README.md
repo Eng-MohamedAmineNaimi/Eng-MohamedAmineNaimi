@@ -4,7 +4,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
   <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web/web-original.svg" height="40" alt="portfolio logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Font_Awesome_5_brands_linkedin.svg" height="40" alt="portfolio logo" />
   </a>
 </p>
 
