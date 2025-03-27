@@ -51,14 +51,15 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
 
+ <div>
+  <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black" height="40" alt="Swagger badge" />
+  <img width="12" />
+   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white" height="40" alt="Postman badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Insomnia-%234000BF.svg?style=flat&logo=insomnia&logoColor=white" height="40" alt="Insomnia badge" />
 </div>
+
+
 
 ###
