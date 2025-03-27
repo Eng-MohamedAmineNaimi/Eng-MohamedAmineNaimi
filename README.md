@@ -2,16 +2,17 @@
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
   <!-- LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/mohamed-amine-naimi-907656263/" target="_blank" style="text-align: center;">
-    <div style="background-color: #0A66C2; padding: 10px; border-radius: 50%; display: inline-block;">
+    <div style="background-color: #0A66C2; padding: 20px; border-radius: 50%; display: inline-block;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
            style="width: 80px; height: 80px; object-fit: cover;" 
            alt="linkedin logo" />
     </div>
     <p style="color: #0A66C2; margin-top: 5px;">LinkedIn</p>
   </a>
+  
   <!-- Portfolio Icon -->
   <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank" style="text-align: center;">
-    <div style="background-color: #0A66C2; padding: 10px; border-radius: 50%; display: inline-block;">
+    <div style="background-color: #0A66C2; padding: 20px; border-radius: 50%; display: inline-block;">
       <img src="https://raw.githubusercontent.com/Eng-MohamedAmineNaimi/portfolio/main/src/assets/tech/aminos2.jpg" 
            style="width: 80px; height: 80px; object-fit: cover;" 
            alt="portfolio logo" />
