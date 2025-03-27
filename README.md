@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%;">
- 
+ <div>
     <a href="https://eng-mohamedaminenaimi.github.io/portfolio/" target="_blank"
        style="display: inline-block; text-align: center; text-decoration: none;">
       <div style="background-color: #0A66C2; padding: 8px; border-radius: 50%; text-align: center;">
